@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": "strategie_leiderschap",
+      "title": "Strategie & Leiderschap",
+      "description": "Visie, eigenaarschap en prioritering vanuit management.",
+      "questions": [
+        { "id": "s1", "text": "AI-doelen zijn expliciet gekoppeld aan bedrijfsstrategie." },
+        { "id": "s2", "text": "Directie en MT nemen actief eigenaarschap op AI-initiatieven." },
+        { "id": "s3", "text": "Er is budget en capaciteit gereserveerd voor AI-transformatie." }
+      ]
+    },
+    {
+      "id": "governance_risico",
+      "title": "Governance & Risico",
+      "description": "Beleid, compliance en risicobeheersing voor verantwoord AI-gebruik.",
+      "questions": [
+        { "id": "g1", "text": "Er zijn duidelijke richtlijnen voor datagebruik en AI-besluitvorming." },
+        { "id": "g2", "text": "Risico's rondom security, privacy en bias worden actief beheerd." },
+        { "id": "g3", "text": "AI-initiatieven hebben formele review- en escalatieprocessen." }
+      ]
+    },
+    {
+      "id": "data_systemen",
+      "title": "Data & Systemen",
+      "description": "Datakwaliteit, architectuur en tooling voor schaalbare AI-oplossingen.",
+      "questions": [
+        { "id": "d1", "text": "Kernprocessen beschikken over betrouwbare en toegankelijke data." },
+        { "id": "d2", "text": "Systemen en API's ondersteunen integratie van AI-oplossingen." },
+        { "id": "d3", "text": "Er is inzicht in datakwaliteit en eigenaarschap per domein." }
+      ]
+    },
+    {
+      "id": "processen_automatisering",
+      "title": "Processen & Automatisering",
+      "description": "Operationalisering van AI in workflows, processen en prestaties.",
+      "questions": [
+        { "id": "p1", "text": "Processen met hoog AI-potentieel zijn geprioriteerd op waarde." },
+        { "id": "p2", "text": "AI-oplossingen zijn opgenomen in dagelijkse werkprocessen." },
+        { "id": "p3", "text": "Resultaten van AI-automatisering worden structureel gemonitord." }
+      ]
+    },
+    {
+      "id": "cultuur_adoptie",
+      "title": "Cultuur & Adoptie",
+      "description": "Veranderbereidheid, skills en adoptie in teams.",
+      "questions": [
+        { "id": "c1", "text": "Medewerkers hebben basiskennis van AI-toepassingen en impact." },
+        { "id": "c2", "text": "Er is ruimte om te experimenteren met AI in een veilige setting." },
+        { "id": "c3", "text": "Adoptie wordt ondersteund via training, communicatie en coaching." }
+      ]
+    }
+  ]
+}
