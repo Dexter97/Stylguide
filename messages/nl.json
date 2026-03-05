@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "approach": "Aanpak",
+    "services": "Diensten",
+    "assessment": "AI Maturity",
+    "scan": "Rendementscan",
+    "cases": "Cases",
+    "resources": "Resources",
+    "about": "Over",
+    "contact": "Contact"
+  },
+  "cta": {
+    "bookScan": "Boek de AI Rendementscan",
+    "planCall": "Plan een gesprek"
+  },
+  "home": {
+    "heroTitle": "Van chaos naar richting. Van experiment naar resultaat.",
+    "heroSub": "AI Bridgemakers maakt AI praktisch, veilig en rendabel in marketing, commercie, HR en recruitment.",
+    "trustTitle": "Ervaring in de praktijk",
+    "problemTitle": "AI gebeurt toch wel. De vraag is of het onder controle is.",
+    "solutionTitle": "Een aanpak die zorgt dat het blijft hangen",
+    "finalCtaTitle": "Kies voor controle, niet voor chaos.",
+    "finalCtaSub": "Start met een maturity assessment of boek direct de AI Rendementscan."
+  }
+}

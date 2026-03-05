@@ -1,0 +1,25 @@
+{
+  "nav": {
+    "approach": "Approach",
+    "services": "Services",
+    "assessment": "AI Maturity",
+    "scan": "ROI Scan",
+    "cases": "Cases",
+    "resources": "Resources",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "cta": {
+    "bookScan": "Book the AI ROI Scan",
+    "planCall": "Schedule a call"
+  },
+  "home": {
+    "heroTitle": "From chaos to direction. From experiments to outcomes.",
+    "heroSub": "AI Bridgemakers makes AI practical, safe, and profitable in marketing, commercial teams, HR and recruitment.",
+    "trustTitle": "Proven in practice",
+    "problemTitle": "AI will be used anyway. The question is whether you control it.",
+    "solutionTitle": "A method that sticks",
+    "finalCtaTitle": "Choose control over chaos.",
+    "finalCtaSub": "Start the maturity assessment or book the AI ROI Scan."
+  }
+}
